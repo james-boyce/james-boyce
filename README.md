@@ -1,5 +1,5 @@
 # 👋 Hi, I'm James (j1m)!
-- 🎓 PhD student at **The University of Queensland** focusing on **AI, NLP, and Information Systems**
+- 🎓 PhD candidate at **The University of Queensland** focusing on **AI, NLP, and Information Systems**
 - 💡 Currently working on research aiming to help people with **Technology**
 - 💼 Former **Full Stack Developer** at **KPMG** Australia
 
